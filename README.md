@@ -1,2 +1,1 @@
-# blog.github.io
-Blog Klaus Strele
+# Blog Klaus Strele
